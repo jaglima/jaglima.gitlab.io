@@ -28,12 +28,6 @@ copyright = "&copy; Copyright Year, Your Name"
     title = "About"
     url = "/about/"
     weight = -100
-  [[menu.main]]
-    identifier = "archives"
-    name = "Archives"
-    title = "Archives"
-    url = "/archives/"
-    weight = -110
 
 
 # Configuration Features
